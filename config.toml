@@ -1,4 +1,4 @@
-baseURL = "dev-is.my.id"
+baseURL = "https://dev-is.my.id/"
 languageCode = "en-us"
 title = "Devnote!"
 

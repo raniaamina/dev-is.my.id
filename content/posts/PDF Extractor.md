@@ -40,6 +40,7 @@ basic usage:
 `pdf-extractor file-name.pdf`
 
 **Example step:**
+
 1. Open your terminal
 2. Go to directory where multiple page pdf saved. For example, if your pdf document saved in my-document folder in home, you can type `cd ~/my-document`. 
 3. `pdf-extractor file-name.pdf`

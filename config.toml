@@ -24,7 +24,7 @@ summaryLength = 20
 
 [params]
     # Blog subtitle which appears below blog title. Supports markdown.
-    subtitle = "Some notes for all [Devlovers Project](#)"
+    subtitle = "Some notes for all [Devlovers Project](/projects)"
 
     avatar = "/img/logo.svg"
 

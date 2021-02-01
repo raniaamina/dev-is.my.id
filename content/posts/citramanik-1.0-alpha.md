@@ -1,5 +1,5 @@
 ---
-title: "Citramanik 1.0 Alpha Waiting"
+title: "Citramanik 1.0 Ready to Release"
 date: 2021-02-01T14:30:49+07:00
 type: posts
 tags: [Citramanik, Dailynote]

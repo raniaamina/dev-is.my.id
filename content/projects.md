@@ -15,7 +15,7 @@ Here is list of our project:
 | Multicalendar       | v1.3.1  | Mar, 04 2020 | Active | [View Page](https://inkscape.org/~raniaamina/%E2%98%85inkscape-multicalendar) |
 | Gradient Saver      | v1.0.1  | Jan, 05 2021 | Active | [View Page](https://inkscape.org/~raniaamina/%E2%98%85gradient-saver)         |
 | PDF Extractor       | v2.11   | Jan, 05 2021 | Active | [View Page](https://github.com/raniaamina/pdf-extractor)                      |
-| Citramanik          | v1.1.0  | Apr, 13 2021 | Active | [View Page](https://citramanik.dev-is.my.id)                                  |
+| Citramanik          | v1.3.0  | Apr, 13 2021 | Active | [View Page](https://citramanik.dev-is.my.id)                                  |
 | Pasopati            | v1.3.5  | Feb, 23 2021 | Active | [View Page](https://github.com/raniaamina/pasopati)                           |
 
 ### Add Gimpscape Repository

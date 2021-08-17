@@ -25,7 +25,7 @@ Today, we are proud to present the latest update for Citramanik. To this day, Ci
 
 ### Download & Install Citramanik
 
-You can download Citramanik via the download page: https://getcitramanik.dev-is.my.id/
+You can download Citramanik via the download page: https://citramanik.dev-is.my.id/
 The installer for the version of each OS will be uploaded periodically, please always check to make sure.
 
 Good news for Debian/Ubuntu base user, now you can install Citramanik via Gimpscape repository. Follow instruction to use this PPA via this link: https://gimpscape.github.io/gimpscape-ppa/

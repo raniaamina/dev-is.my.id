@@ -1,20 +1,18 @@
 ---
-title: "Citramanik 1.3.1"
-date: 2022-03-06T15:15:36+07:00
+title: "Citramanik 1.3.2"
+date: 2022-03-10T15:15:36+07:00
 type: posts
 tags: [Dailynote]
 categories: 
 - [Daily Note]
-description: Citramanik Citramanik 1.3.2 bug fix release.
+description: Citramanik Citramanik 1.3.1 bux fix release.
 ---
 
-{{< figure src="img-citramanik-logo.png" title="Citramanik 1.3.1" >}}
+{{< figure src="../logos/img-citramanik-logo.png" title="Citramanik 1.3.2" >}}
 
 ### Citramanik 1.3.1 Changelogs:
 
-- Fix crash when unable to fetch update
-- Remove Pillow-PIL dev from dependency list
-- Provide [Open Build Service](https://software.opensuse.org//download.html?project=home%3Adevlovers-id%3Aapps&package=citramanik-qt) as new repo & download option
+- Fix huge export file issue, so now you can export with big size bitmap embeded in your SVG
 
 ### Download & Install Citramanik
 

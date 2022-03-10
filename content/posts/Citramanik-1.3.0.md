@@ -8,7 +8,7 @@ categories:
 description: We are proud to present the latest update for Citramanik 1.3.0.
 ---
 
-{{< figure src="img-citramanik-logo.png" title="Citramanik 1.3.0" >}}
+{{< figure src="../logos/img-citramanik-logo.png" title="Citramanik 1.3.0" >}}
 
 Happy Independence Day of the Republic of Indonesia! Independence gives freedom for everyone to be able to work and give the best for those around them. That's what Devlovers ID tries to consistently do all the time.
 

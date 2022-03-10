@@ -8,7 +8,7 @@ categories:
 description: Today, we officially announce that Citramanik will begin to be publicly released!.
 ---
 
-{{< figure src="img-citramanik-logo.png" title="Citramanik 1.1.0" >}}
+{{< figure src="../logos/img-citramanik-logo.png" title="Citramanik 1.1.0" >}}
 
 Citramanik is a powerful tool to help your productivity with Inkscape. This tool will reads ID patterns (i.e icon-small, page-medium, page-big, etc) that you've set and then exports them to the file format that you need. Citramanik allows you to feel like you are working with artboards or multiple pages in Inkscape.
 
